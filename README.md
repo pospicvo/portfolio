@@ -53,7 +53,8 @@ Denně používám:
 Další znalosti:
 - Testování & verzování
 - Responzivní webdesign
-- Základy Adobe Photoshop
+- CAD Autodesk
+- QGIS
 - MS Office
 
 ---
